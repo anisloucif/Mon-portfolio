@@ -1,0 +1,14 @@
+2026-09-07 13:53:34,848 [INFO] Extraction des informations du fichier PAC de http://wpad.vinci-melun.org/wpad.dat
+2026-09-07 13:53:34,881 [INFO] Proxy détecté : 172.16.0.51:8080
+2026-09-07 13:54:27,331 [INFO] Configuration du PROXY de GNOME
+2026-09-07 13:54:27,548 [INFO] GNOME proxy configuré
+2026-09-07 13:54:27,548 [INFO] Configuration Git Credential Manager
+2026-09-07 13:54:28,156 [INFO] Configuration credentialStore
+2026-09-07 13:54:28,158 [INFO] Configuration Git user
+2026-09-07 13:54:28,162 [INFO] Maven proxy configured at /home/anis/.m2/settings.xml
+2026-09-07 13:54:28,162 [INFO] Gradle proxy configured at /home/anis/.gradle/gradle.properties
+2026-09-07 13:54:34,340 [INFO] Mise à jour de /etc/environment avec la configuration du proxy
+2026-09-07 13:54:34,340 [ERROR] Permission refusée pour écrire dans /etc/environment
+2026-09-07 13:54:34,341 [INFO] Installation de nvm
+2026-09-07 13:54:36,507 [INFO] nvm installé, pensez à rouvrir la session si nécessaire.
+2026-09-07 13:54:36,507 [INFO] Installation de la dernière LTS de NodeJS via nvm
