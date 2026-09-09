@@ -1,11 +1,15 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Settings.desktop" score="0" last-seen="1788781909"/>
-    <application id="firefox_firefox.desktop" score="35" last-seen="1788782363"/>
-    <application id="org.gnome.Nautilus.desktop" score="16" last-seen="1788782363"/>
+    <application id="jetbrains-idea.desktop" score="28" last-seen="1788947541"/>
+    <application id="org.gnome.Nautilus.desktop" score="100" last-seen="1788880959"/>
+    <application id="org.gnome.Settings.desktop" score="37" last-seen="1788942121"/>
     <application id="gnome-initial-setup.desktop" score="0" last-seen="1788781723"/>
-    <application id="org.gnome.Terminal.desktop" score="30" last-seen="1788782362"/>
+    <application id="google-chrome.desktop" score="844" last-seen="1788947529"/>
+    <application id="org.gnome.Terminal.desktop" score="376" last-seen="1788940168"/>
+    <application id="code.desktop" score="1221" last-seen="1788943645"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1788875301"/>
+    <application id="firefox_firefox.desktop" score="2417" last-seen="1788940547"/>
     <application id="update-manager.desktop" score="0" last-seen="1788781849"/>
   </context>
 </application-state>

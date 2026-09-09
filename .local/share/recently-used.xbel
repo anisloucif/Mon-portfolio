@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/anis/Mon-portfolio" added="2026-09-07T12:50:26.187490Z" modified="2026-09-07T12:50:26.197370Z" visited="2026-09-07T12:50:26.187492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;gio open %u&apos;" modified="2026-09-07T12:50:26.187494Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-07T12:50:26.197367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/T%C3%A9l%C3%A9chargements/unnamed.jpg" added="2026-09-07T13:54:13.206905Z" modified="2026-09-07T13:54:13.457109Z" visited="2026-09-07T13:54:13.206907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-07T13:54:13.206910Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-07T13:54:13.457106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Mon-portfolio/docs/images" added="2026-09-07T15:15:37.611844Z" modified="2026-09-07T15:15:37.623437Z" visited="2026-09-07T15:15:37.611845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-07T15:15:37.623435Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-08%2014-25-20.png" added="2026-09-08T12:25:20.286664Z" modified="2026-09-08T14:53:05.523223Z" visited="2026-09-08T12:25:20.286665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-08T12:25:20.286665Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-08T14:53:05.515164Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-08T14:53:05.523218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-08%2014-46-49.png" added="2026-09-08T12:46:49.092181Z" modified="2026-09-08T14:53:05.523234Z" visited="2026-09-08T12:46:49.092181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-08T12:46:49.092192Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-08T14:53:05.515182Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-08T14:53:05.523232Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-08%2014-46-55.png" added="2026-09-08T12:46:55.161339Z" modified="2026-09-08T14:53:05.523243Z" visited="2026-09-08T12:46:55.161339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-08T12:46:55.161339Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-08T14:53:05.515176Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-08T14:53:05.523241Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Mon-portfolio/docs/images/Photoroom_20260417_182030.jpeg" added="2026-09-08T13:48:18.576593Z" modified="2026-09-08T13:48:19.078695Z" visited="2026-09-08T13:48:18.576593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2026-09-08T13:48:18.576597Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2026-09-08T13:48:19.078693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-08%2016-59-56.png" added="2026-09-08T14:59:56.404119Z" modified="2026-09-08T14:59:56.404122Z" visited="2026-09-08T14:59:56.404120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-08T14:59:56.404120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-08%2017-24-36.png" added="2026-09-08T15:24:36.275611Z" modified="2026-09-08T15:24:44.305803Z" visited="2026-09-08T15:24:36.275612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-08T15:24:36.275613Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-08T15:24:44.297843Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-08T15:24:44.305800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2009-20-36.png" added="2026-09-09T07:20:36.829973Z" modified="2026-09-09T07:20:36.829976Z" visited="2026-09-09T07:20:36.829974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:20:36.829974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2009-23-39.png" added="2026-09-09T07:23:39.981688Z" modified="2026-09-09T07:23:39.981691Z" visited="2026-09-09T07:23:39.981689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:23:39.981689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2009-24-25.png" added="2026-09-09T07:24:25.384636Z" modified="2026-09-09T07:24:34.011038Z" visited="2026-09-09T07:24:25.384637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:24:25.384637Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:24:34.001436Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T07:24:34.011035Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2009-29-02.png" added="2026-09-09T07:29:02.604449Z" modified="2026-09-09T07:29:44.033258Z" visited="2026-09-09T07:29:02.604449Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:29:02.604450Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:29:44.022775Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T07:29:44.033255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2009-29-18.png" added="2026-09-09T07:29:18.266999Z" modified="2026-09-09T07:29:44.033269Z" visited="2026-09-09T07:29:18.267000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:29:18.267000Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-09-09T07:29:44.022787Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T07:29:44.033268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2011-19-12.png" added="2026-09-09T09:19:12.152134Z" modified="2026-09-09T09:19:57.676890Z" visited="2026-09-09T09:19:12.152134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:19:12.152134Z" count="1"/>
+          <bookmark:application name="com.google.Chrome" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:19:57.665624Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T09:19:57.676885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2011-28-24.png" added="2026-09-09T09:28:24.121232Z" modified="2026-09-09T09:28:57.795547Z" visited="2026-09-09T09:28:24.121233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:28:24.121233Z" count="1"/>
+          <bookmark:application name="com.google.Chrome" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:28:57.785609Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T09:28:57.795541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202026-09-09%2011-37-07.png" added="2026-09-09T09:37:07.989001Z" modified="2026-09-09T09:38:05.050872Z" visited="2026-09-09T09:37:07.989002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:37:07.989002Z" count="1"/>
+          <bookmark:application name="com.google.Chrome" exec="&apos;gio open %u&apos;" modified="2026-09-09T09:38:05.040219Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-09T09:38:05.050867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

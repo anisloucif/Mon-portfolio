@@ -1,0 +1,22 @@
+2026-09-09 09:52:08.435Z INFO  daemon - JetBrains Daemon v0.8.6627
+PID:         15390
+Socket:      /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2
+Executable:  /home/anis/.local/share/JetBrains/Daemon/bundles/current/jetbrainsd/bin/jetbrainsd
+Bundles dir: /home/anis/.local/share/JetBrains/Daemon/bundles
+Logs dir:    /home/anis/.local/share/JetBrains/Daemon/logs
+Data dir:    /home/anis/.local/share/JetBrains/Daemon/data
+Cache dir:   /home/anis/.cache/JetBrains/Daemon
+Working dir: /home/anis/.local/share/JetBrains/Daemon/data
+2026-09-09 09:52:08.435Z INFO  diogen - Reporting errors to 'https://ea-report.jetbrains.com/trackerRpc/idea/createScr'
+2026-09-09 09:52:08.436Z INFO  lock - 'jetbrainsd-84fe5cc65e8bb989726f0419fe7430a2-1345f043e82be6f5386896b03c537ae2' UDS was bound
+2026-09-09 09:52:08.436Z INFO  daemon - Starting the daemon server at /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2...
+2026-09-09 09:52:08.441Z INFO  Storage - loading snapshot StorageKey(storage=jetbrainsd)
+2026-09-09 09:52:08.441Z INFO  Storage - applying non-empty snapshot StorageKey(storage=jetbrainsd)
+2026-09-09 09:52:08.509Z INFO  tbrains.keychain.KeychainBackend - Using first available keychain backend, linux-libsecret
+2026-09-09 09:52:08.529Z INFO  io.ktor.server.Application - Autoreload is disabled because the development mode is off.
+2026-09-09 09:52:08.530Z INFO  io.ktor.server.Application - Application started in 0.001 seconds.
+2026-09-09 09:52:08.531Z INFO  io.ktor.server.Application - Responding at unix://0.0.0.0:80
+2026-09-09 09:52:09.124Z INFO  DaemonIntellijApiServer - /intellij/discover IntellijIdeDiscoveryRequest(pid=15281, installDirectory=/opt/idea-IU-262.9437.185, appMode=monolith)
+2026-09-09 09:52:09.126Z INFO  IntellijIdeProcess - Watching process 15281 (mode Monolith, at '/opt/idea-IU-262.9437.185')
+2026-09-09 09:52:09.272Z INFO  DaemonSystemWsApiServerImpl - Registering URL handler sink for process 15281
+2026-09-09 10:02:08.444Z INFO  log-housekeeper - Consolidated 1 previous daemon logs into daemon.log

@@ -1,0 +1,3 @@
+2026-09-07 14:25:43.565 [info] Started initializing default profile extensions in extensions installation folder. file:///home/anis/.vscode/extensions
+2026-09-07 14:25:43.773 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/anis/.vscode/extensions Unable to create file 'vscode-userdata:/home/anis/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2026-09-07 14:25:43.773 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/anis/.vscode/extensions

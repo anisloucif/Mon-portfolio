@@ -1,0 +1,17 @@
+GraalVM Community Edition License
+==================================
+
+The native executable in this distribution was built using GraalVM Community Edition,
+which is licensed under the GNU General Public License version 2 with Classpath Exception.
+
+License: GPL-2.0 WITH Classpath-exception-2.0
+
+The full license text is available at:
+https://github.com/oracle/graal/blob/master/LICENSE
+
+The Classpath Exception permits linking with independent modules (like this application)
+without requiring those modules to be licensed under the GPL.
+
+For GraalVM source code and more information, see:
+https://github.com/oracle/graal
+https://www.graalvm.org/

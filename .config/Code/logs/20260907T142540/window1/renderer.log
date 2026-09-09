@@ -1,0 +1,96 @@
+2026-09-07 14:25:42.265 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-07 14:25:42.294 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-09-07 14:25:42.601 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:25:42.963 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MDY0ZGQxM2QtOTlkMi00OWI0LTk2MjYtZjZjYzM2NDAxMzcw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:25:42.992 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-07 14:25:43.116 [info] Started local extension host with pid 8194.
+2026-09-07 14:25:43.236 [info] Started initializing default profile extensions in extensions installation folder. file:///home/anis/.vscode/extensions
+2026-09-07 14:25:43.581 [info] [AgentHost:renderer] Protocol connection established; clientId=035ca568-183e-470e-889a-9c06d177f2fa
+2026-09-07 14:25:43.726 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/anis/.vscode/extensions
+2026-09-07 14:25:43.784 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-07 14:25:44.208 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-07 14:25:45.018 [warning] [RemoteAgentHostProtocol] Request 2 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:25:45.086 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.087 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.088 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.088 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.090 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.091 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.110 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-07 14:25:45.117 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.123 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.124 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.124 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.124 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.125 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.125 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.126 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.127 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.129 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-07 14:25:45.137 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.138 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.138 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.138 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.139 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.139 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.146 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.146 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.147 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.148 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.150 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.150 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.151 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:25:45.151 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.151 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.151 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.152 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.152 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.152 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.152 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.153 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:25:45.272 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MDY0ZGQxM2QtOTlkMi00OWI0LTk2MjYtZjZjYzM2NDAxMzcw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:25:45.420 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-07 14:25:45.450 [warning] [RemoteAgentHostProtocol] Request 5 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:25:45.477 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MDY0ZGQxM2QtOTlkMi00OWI0LTk2MjYtZjZjYzM2NDAxMzcw" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:25:46.471 [info] [perf] Render performance baseline is 31ms
+2026-09-07 14:25:47.027 [error] [Extension Host] (node:8194) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-07 14:25:48.782 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-07 14:26:24.340 [warning] [RemoteAgentHostProtocol] Request 13 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:49:59.585 [warning] [RemoteAgentHostProtocol] Request 296 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:50:27.464 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-07 14:50:27.615 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:50:27.849 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-07 14:50:27.881 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/M2JmN2Q5ZTYtY2JmMi00YzU5LThhNzAtMmE0Y2UxMzA5MTRk" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:50:27.974 [info] Started local extension host with pid 11496.
+2026-09-07 14:50:28.059 [info] [AgentHost:renderer] Protocol connection established; clientId=ca7c549d-57e7-4c71-82dc-956d5ee1e34d
+2026-09-07 14:50:28.233 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-07 14:50:29.087 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-07 14:50:29.191 [warning] [RemoteAgentHostProtocol] Request 2 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:50:29.203 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:50:29.263 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-07 14:50:29.320 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:50:29.322 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-07 14:50:29.332 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 14:50:29.335 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 14:50:29.526 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/M2JmN2Q5ZTYtY2JmMi00YzU5LThhNzAtMmE0Y2UxMzA5MTRk" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 14:50:29.557 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-07 14:50:29.642 [warning] [RemoteAgentHostProtocol] Request 5 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-07 14:50:30.884 [info] [perf] Render performance baseline is 32ms
+2026-09-07 14:50:34.086 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

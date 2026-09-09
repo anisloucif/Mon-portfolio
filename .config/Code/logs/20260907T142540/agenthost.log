@@ -1,0 +1,64 @@
+2026-09-07 14:25:43.317 [info] Agent Host process started successfully
+2026-09-07 14:25:43.368 [info] AgentService initialized
+2026-09-07 14:25:43.384 [info] Registering agent provider: copilotcli
+2026-09-07 14:25:43.389 [info] Registering agent provider: claude
+2026-09-07 14:25:43.404 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:25:43.405 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:25:43.407 [info] [Copilot] Listing discoverable chats...
+2026-09-07 14:25:43.407 [info] [Copilot] Starting CopilotClient...
+2026-09-07 14:25:43.408 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-07 14:25:43.433 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-07 14:25:43.460 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:25:43.482 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-07 14:25:43.482 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-07 14:25:43.486 [info] [ProtocolServer] Initialize: clientId=035ca568-183e-470e-889a-9c06d177f2fa, protocolVersions=[1.0.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-07 14:25:43.642 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-f4d17022c2b2/HwOr3X0fG-1bosDrokWRfQ.sock
+2026-09-07 14:25:43.657 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-09-07 14:25:43.705 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-07 14:25:43.797 [info] [Copilot] Listing chats to migrate...
+2026-09-07 14:25:43.798 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:25:43.798 [warning] [AgentService] registry migration: failed for late-registered provider claude Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:43.798 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:43.799 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:25:43.799 [warning] [AgentService] External session reconciliation failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:44.932 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:44.957 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:25:44.960 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:45.087 [info] [Claude] Auth token unchanged
+2026-09-07 14:25:45.373 [info] [Copilot] Startup config changed while the client was starting; re-acquiring the client with the current config
+2026-09-07 14:25:45.373 [info] [Copilot] Starting CopilotClient...
+2026-09-07 14:25:45.373 [info] [Copilot] Resolved CAPI proxy and forwarded HTTP_PROXY/HTTPS_PROXY to Copilot SDK
+2026-09-07 14:25:45.373 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-07 14:25:45.378 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-07 14:25:45.429 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:45.432 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:25:45.432 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:25:46.262 [info] [Copilot] CopilotClient started successfully
+2026-09-07 14:25:46.267 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-07 14:25:46.267 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-07 14:25:46.269 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-09-07 14:25:46.269 [info] [Copilot] Found 0 legacy sessions
+2026-09-07 14:25:46.288 [warning] [AgentService] Failed to restore Agent-Merge-enabled sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:26:24.337 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:26:24.338 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:26:24.338 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:49:59.582 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:49:59.583 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:49:59.583 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:50:26.453 [info] [ProtocolServer] Client disconnected: 035ca568-183e-470e-889a-9c06d177f2fa, subscriptions=1
+2026-09-07 14:50:26.455 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:50:27.849 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:50:27.962 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:50:28.030 [info] [ProtocolServer] Initialize: clientId=ca7c549d-57e7-4c71-82dc-956d5ee1e34d, protocolVersions=[1.0.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-07 14:50:29.128 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:50:29.132 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:50:29.132 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:50:29.203 [info] [Claude] Auth token unchanged
+2026-09-07 14:50:29.635 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:50:29.636 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:50:29.636 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:50:53.981 [info] [ProtocolServer] Client disconnected: ca7c549d-57e7-4c71-82dc-956d5ee1e34d, subscriptions=1
+2026-09-07 14:50:53.983 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:50:53.984 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:50:53.985 [info] AgentService: shutting down all providers...
+2026-09-07 14:50:53.985 [info] [Copilot] Shutting down...

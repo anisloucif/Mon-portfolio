@@ -1,0 +1,13 @@
+2026-09-07 14:25:40.377 [info] StorageMainService: creating application shared storage
+2026-09-07 14:25:40.559 [info] [shared storage] Creating shared storage database at '/home/anis/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: true)
+2026-09-07 14:25:40.560 [info] [shared storage] Initializing fallback application storage (path: /home/anis/.config/Code/User/globalStorage/state.vscdb)
+2026-09-07 14:25:40.641 [info] [shared storage] Fallback application storage initialized with 3 items
+2026-09-07 14:25:42.224 [info] update#setState idle
+2026-09-07 14:25:42.293 [info] AgentHostProcessManager: agent host started
+2026-09-07 14:25:43.447 [error] [AgentHost:stderr] (node:8122) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-07 14:26:12.225 [info] update#setState checking for updates
+2026-09-07 14:26:12.263 [info] update#setState available for download
+2026-09-07 14:50:26.286 [info] Extension host with pid 8194 exited with code: 0, signal: unknown.
+2026-09-07 14:50:53.881 [info] Extension host with pid 11496 exited with code: 0, signal: unknown.

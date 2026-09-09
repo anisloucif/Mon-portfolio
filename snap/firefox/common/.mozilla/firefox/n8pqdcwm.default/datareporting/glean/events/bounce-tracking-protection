@@ -1,2 +1,3 @@
 {"timestamp":26130440,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","success":"true","site_host":"youtube.com","bounce_time":"1788868320","glean_timestamp":"1788875437605"},"execution_counter":1}
 {"timestamp":26130440,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","site_host":"google.fr","success":"true","glean_timestamp":"1788875437606","bounce_time":"1788868320"},"execution_counter":1}
+{"timestamp":45271,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1788935548434","glean.startup.date":"2026-09-09T08:32+02:00"},"execution_counter":2}

@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="4" l="1788937165148" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1788937042891" />
+    </e>
+    <e n="com.intellij.ide.G.r.G.C">
+      <i c="2" l="1788937110012" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1788937010163" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="2" l="1788937108943" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1788937035936" />
+    </e>
+  </component>
+</application>

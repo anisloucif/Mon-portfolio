@@ -1,0 +1,23 @@
+----- daemon-6943.log -----
+2026-09-09 06:56:00.886Z INFO  daemon - JetBrains Daemon v0.8.6627
+PID:         6943
+Socket:      /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2
+Executable:  /home/anis/.local/share/JetBrains/Daemon/bundles/current/jetbrainsd/bin/jetbrainsd
+Bundles dir: /home/anis/.local/share/JetBrains/Daemon/bundles
+Logs dir:    /home/anis/.local/share/JetBrains/Daemon/logs
+Data dir:    /home/anis/.local/share/JetBrains/Daemon/data
+Cache dir:   /home/anis/.cache/JetBrains/Daemon
+Working dir: /home/anis/.local/share/JetBrains/Daemon/data
+2026-09-09 06:56:00.888Z INFO  diogen - Reporting errors to 'https://ea-report.jetbrains.com/trackerRpc/idea/createScr'
+2026-09-09 06:56:00.889Z INFO  lock - 'jetbrainsd-84fe5cc65e8bb989726f0419fe7430a2-1345f043e82be6f5386896b03c537ae2' UDS was bound
+2026-09-09 06:56:00.889Z INFO  daemon - Starting the daemon server at /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2...
+2026-09-09 06:56:00.895Z INFO  Storage - loading snapshot StorageKey(storage=jetbrainsd)
+2026-09-09 06:56:00.954Z INFO  tbrains.keychain.KeychainBackend - Using first available keychain backend, linux-libsecret
+2026-09-09 06:56:00.976Z INFO  io.ktor.server.Application - Autoreload is disabled because the development mode is off.
+2026-09-09 06:56:00.977Z INFO  io.ktor.server.Application - Application started in 0.001 seconds.
+2026-09-09 06:56:00.979Z INFO  io.ktor.server.Application - Responding at unix://0.0.0.0:80
+2026-09-09 06:56:01.264Z INFO  DaemonIntellijApiServer - /intellij/discover IntellijIdeDiscoveryRequest(pid=6835, installDirectory=/opt/idea-IU-262.9437.185, appMode=monolith)
+2026-09-09 06:56:01.266Z INFO  IntellijIdeProcess - Watching process 6835 (mode Monolith, at '/opt/idea-IU-262.9437.185')
+2026-09-09 06:56:01.278Z INFO  DaemonSystemWsApiServerImpl - Registering URL handler sink for process 6835
+2026-09-09 08:01:16.790Z INFO  DaemonSystemWsApiServerImpl - Unregistering URL handler sink for process 6835
+2026-09-09 08:01:20.917Z INFO  ProcessWatcherUtil - Removing process 6835 because it exited

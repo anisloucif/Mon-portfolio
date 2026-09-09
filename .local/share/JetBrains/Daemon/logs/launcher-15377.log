@@ -1,0 +1,18 @@
+2026-09-09 09:52:08.415Z INFO  launch - JetBrains Daemon Launcher v0.8.6627
+PID:         15377
+Socket:      /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2
+Executable:  /home/anis/.local/share/JetBrains/Daemon/bundles/current/jetbrainsd/bin/jetbrainsd
+Bundles dir: /home/anis/.local/share/JetBrains/Daemon/bundles
+Logs dir:    /home/anis/.local/share/JetBrains/Daemon/logs
+Data dir:    /home/anis/.local/share/JetBrains/Daemon/data
+Cache dir:   /home/anis/.cache/JetBrains/Daemon
+Working dir: /home/anis/.local/share/JetBrains/Daemon/data
+2026-09-09 09:52:08.415Z INFO  launch - This bundle is currently installed
+2026-09-09 09:52:08.415Z INFO  launch - Required version: 0.8.6627
+2026-09-09 09:52:08.415Z INFO  launch - Current version 0.8.6627 suits the required version 0.8.6627
+2026-09-09 09:52:08.418Z WARN  process-token - Can't read '/proc/6943/stat' java.nio.file.NoSuchFileException: /proc/6943/stat
+	at java.base@25.0.1/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:213)
+2026-09-09 09:52:08.423Z INFO  launch - Daemon launched (15390)
+2026-09-09 09:52:08.423Z WARN  process-token - Can't read '/proc/6943/stat' java.nio.file.NoSuchFileException: /proc/6943/stat
+	at java.base@25.0.1/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:213)
+2026-09-09 09:52:08.633Z INFO  launch - Daemon is now running and responsive (3), started version 0.8.6627

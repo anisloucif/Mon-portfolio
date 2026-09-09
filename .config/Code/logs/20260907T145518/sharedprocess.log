@@ -1,0 +1,6 @@
+2026-09-07 14:55:33.845 [info] Getting Manifest... pkief.material-icon-theme
+2026-09-07 14:55:33.983 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/anis/.vscode/extensions/extensions.json","path":"/home/anis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.135.0","date":"2026-08-25T14:26:52Z"}}
+2026-09-07 14:55:35.956 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 1546ms.
+2026-09-07 14:55:36.741 [info] Extracted extension to file:///home/anis/.vscode/extensions/pkief.material-icon-theme-5.38.1: pkief.material-icon-theme
+2026-09-07 14:55:36.785 [info] Renamed to /home/anis/.vscode/extensions/pkief.material-icon-theme-5.38.1
+2026-09-07 14:55:36.808 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/anis/.vscode/extensions/extensions.json

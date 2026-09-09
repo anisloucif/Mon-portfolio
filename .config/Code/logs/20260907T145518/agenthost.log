@@ -1,0 +1,227 @@
+2026-09-07 14:55:19.897 [info] Agent Host process started successfully
+2026-09-07 14:55:19.928 [info] AgentService initialized
+2026-09-07 14:55:19.935 [info] Registering agent provider: copilotcli
+2026-09-07 14:55:19.938 [info] Registering agent provider: claude
+2026-09-07 14:55:19.945 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:55:19.947 [info] [Copilot] Listing discoverable chats...
+2026-09-07 14:55:19.948 [info] [Copilot] Starting CopilotClient...
+2026-09-07 14:55:19.949 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-07 14:55:19.988 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:55:19.995 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-07 14:55:20.171 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-07 14:55:20.171 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-07 14:55:20.183 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 14:55:20.308 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-f4d17022c2b2/1WQzIHHM_EDiUDSvIQNRVA.sock
+2026-09-07 14:55:20.309 [info] [ProtocolServer] Initialize: clientId=e519fada-2b99-4e3b-a670-4a061d013326, protocolVersions=[1.0.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-07 14:55:20.430 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:55:20.430 [warning] [AgentService] registry migration: failed for late-registered provider claude Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:20.430 [warning] [AgentService] Failed to restore Agent-Merge-enabled sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:20.444 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-07 14:55:20.674 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:20.679 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:55:20.679 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:21.179 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:21.180 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:55:21.180 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:55:21.376 [info] [Copilot] CopilotClient started successfully
+2026-09-07 14:55:21.379 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-07 14:55:21.380 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-07 14:55:21.444 [info] [Copilot] Restarting CopilotClient (CAPI proxy configuration changed (proxy (none) -> http://172.16.0.51:8080))
+2026-09-07 14:55:21.448 [info] [Claude] Auth token unchanged
+2026-09-07 14:56:02.691 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:56:02.692 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:56:02.692 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:58:21.815 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:58:21.816 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:58:21.816 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:59:20.199 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:59:20.199 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:59:20.199 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:59:39.321 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 14:59:39.322 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 14:59:39.322 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:02:20.841 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:02:20.842 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:02:20.842 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:19:08.052 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:19:08.053 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:19:08.053 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:37:01.137 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:37:01.138 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:37:01.139 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:39:39.469 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:39:39.470 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:39:39.470 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:40:11.558 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:40:11.559 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:40:11.559 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:40:58.098 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:40:58.099 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:40:58.099 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:42:26.026 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:42:26.027 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:42:26.027 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:42:59.704 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:42:59.705 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:42:59.705 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:43:31.694 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:43:31.695 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:43:31.695 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:44:17.565 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:44:17.566 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:44:17.566 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:47:24.821 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:47:24.822 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:47:24.822 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:48:01.091 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:48:01.092 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:48:01.092 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:48:26.607 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:48:26.608 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:48:26.608 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:50:03.225 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:50:03.226 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:50:03.227 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:51:45.718 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:51:45.719 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:51:45.720 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:52:12.603 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:52:12.605 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:52:12.605 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:55:01.519 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:55:01.520 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:55:01.521 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:57:58.219 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:57:58.220 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:57:58.221 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:58:00.189 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 15:58:00.190 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 15:58:00.190 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:04:43.876 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:04:43.877 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:04:43.877 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:22:14.597 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:22:14.598 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:22:14.598 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:25:34.798 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:25:34.798 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:25:34.798 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:26:30.549 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:26:30.550 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:26:30.550 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:26:56.895 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:26:56.896 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:26:56.896 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:27:15.330 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:27:15.331 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:27:15.331 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:28:22.034 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:28:22.035 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:28:22.036 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:30:16.235 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:30:16.236 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:30:16.236 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:30:32.765 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:30:32.767 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:30:32.767 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:36:39.171 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:36:39.172 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:36:39.172 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:37:14.341 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:37:14.342 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:37:14.342 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:40:44.720 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:40:44.720 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:40:44.720 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:45:36.835 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:45:36.836 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:45:36.836 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:47:24.379 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 16:47:24.380 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 16:47:24.381 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:00:34.661 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:00:34.662 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:00:34.663 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:05.707 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:05.708 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:01:05.708 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:20.911 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:20.912 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:01:20.912 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:27.393 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:27.394 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:01:27.394 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:38.219 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:38.220 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:01:38.220 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:59.573 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:01:59.575 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:01:59.575 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:02:26.545 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:02:26.546 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:02:26.546 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:07:36.728 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:07:36.729 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:07:36.729 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:07:55.616 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:07:55.617 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:07:55.617 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:08:41.696 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:08:41.697 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:08:41.697 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:11:56.528 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:11:56.529 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:11:56.529 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:13:38.847 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:13:38.848 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:13:38.848 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:15:42.769 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:15:42.770 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:15:42.770 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:01.591 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:01.592 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:17:01.592 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:04.611 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:04.612 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:17:04.612 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:05.924 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:05.925 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:17:05.925 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:49.400 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:17:49.401 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:17:49.401 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:18:16.945 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:18:16.947 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:18:16.947 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:18:51.399 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:18:51.399 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:18:51.400 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:21:06.238 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:21:06.240 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:21:06.240 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:22:46.730 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:22:46.731 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:22:46.731 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:07.088 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:07.089 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:24:07.089 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:14.556 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:14.557 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:24:14.557 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:47.978 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:47.980 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:24:47.980 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:52.597 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:24:52.598 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:24:52.598 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:25:29.898 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:25:29.898 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:25:29.898 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:25:50.894 [warning] [AgentService] initial provider catalog for claude was unavailable; retrying before accessing sessions Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:25:50.896 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 17:25:50.896 [error] [ProtocolServer] Request 'listSessions' failed Provider claude cannot enumerate its native session catalog yet
+2026-09-07 17:25:53.346 [info] [ProtocolServer] Client disconnected: e519fada-2b99-4e3b-a670-4a061d013326, subscriptions=1
+2026-09-07 17:25:53.352 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 17:25:53.352 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 17:25:53.356 [info] AgentService: shutting down all providers...
+2026-09-07 17:25:53.356 [info] [Copilot] Shutting down...

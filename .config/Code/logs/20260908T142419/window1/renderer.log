@@ -1,0 +1,22 @@
+2026-09-08 14:24:21.197 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-08 14:24:21.226 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-09-08 14:24:21.766 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-08 14:24:22.152 [info] Started local extension host with pid 17252.
+2026-09-08 14:24:22.534 [info] [AgentHost:renderer] Protocol connection established; clientId=4c44e818-96a6-498a-b179-60f10e2cf512
+2026-09-08 14:24:22.745 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-08 14:24:24.435 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-08 14:24:25.180 [warning] [RemoteAgentHostProtocol] Request 2 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-08 14:24:25.335 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-08 14:24:25.423 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-08 14:24:25.582 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-08 14:24:25.684 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-08 14:24:25.684 [warning] [RemoteAgentHostProtocol] Request 5 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-08 14:24:25.915 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-08 14:24:25.927 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-08 14:24:26.115 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-08 14:24:26.604 [info] [perf] Render performance baseline is 36ms
+2026-09-08 14:24:27.590 [error] [Extension Host] (node:17252) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-08 14:24:29.393 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-08 15:40:42.966 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/anis/Mon-portfolio/content/pages/Parcours/%7Bstatic%7D/images/logo%26baseline-fondblanc.png, resourceToLoad=file:///home/anis/Mon-portfolio/content/pages/Parcours/%7Bstatic%7D/images/logo%26baseline-fondblanc.png
+2026-09-08 15:50:54.128 [error] Failed to capture browser view screenshot Failed to capture screenshot after 5 attempts

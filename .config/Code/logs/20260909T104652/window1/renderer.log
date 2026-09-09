@@ -1,0 +1,20 @@
+2026-09-09 10:46:53.858 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-09 10:46:53.887 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-09-09 10:46:54.375 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-09 10:46:54.720 [info] Started local extension host with pid 14514.
+2026-09-09 10:46:55.454 [info] [AgentHost:renderer] Protocol connection established; clientId=4ab0ea86-62eb-4714-91d0-ad624eb4ea8c
+2026-09-09 10:46:55.704 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-09 10:46:56.895 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-09 10:46:57.553 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 10:46:57.556 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-09 10:46:57.558 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 10:46:57.598 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-09 10:46:57.602 [warning] [RemoteAgentHostProtocol] Request 4 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-09 10:46:57.606 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 10:46:57.621 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 10:46:57.802 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-09 10:46:58.099 [warning] [RemoteAgentHostProtocol] Request 5 failed: {"code":-32603,"message":"ProviderCatalogUnavailableError: Provider claude cannot enumerate its native session catalog yet\n    at hg._migrateLegacyProviderChats (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:975:34194)"}
+2026-09-09 10:46:58.644 [info] [perf] Render performance baseline is 26ms
+2026-09-09 10:46:59.008 [error] [Extension Host] (node:14514) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-09 10:47:01.895 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

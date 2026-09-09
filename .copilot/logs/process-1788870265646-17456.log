@@ -1,0 +1,10 @@
+2026-09-08T12:24:25.647Z [INFO] Proxy configuration: HTTP_PROXY=http://172.16.0.51:8080, HTTPS_PROXY=http://172.16.0.51:8080, NO_PROXY=(not set)
+2026-09-08T12:24:25.650Z [INFO] Starting CLI in server mode (stdio)
+2026-09-08T12:24:25.652Z [INFO] Starting CLI in stdio mode (Rust JSON-RPC engine)
+2026-09-08T12:24:25.655Z [INFO] Shell completions: no writable completion directory found for bash, skipping
+2026-09-08T12:24:25.657Z [INFO] CLI server ready (stdio mode, Rust JSON-RPC engine)
+2026-09-08T12:24:25.658Z [INFO] Server started, waiting for requests
+2026-09-08T15:25:18.358Z [INFO] Preparing runtime for graceful shutdown
+2026-09-08T15:25:18.359Z [INFO] Starting graceful shutdown of CLI server
+2026-09-08T15:25:18.359Z [INFO] Destroying 0 active sessions
+2026-09-08T15:25:18.365Z [INFO] CLI server prepared for shutdown; transport remains open for RPC response

@@ -1,0 +1,6 @@
+2026/09/09-11:36:32.196 32f8 Creating DB /home/anis/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb since it was missing.
+2026/09/09-11:36:32.216 32f8 Reusing MANIFEST /home/anis/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/09/09-11:36:46.860 32f9 Level-0 table #5: started
+2026/09/09-11:36:46.868 32f9 Level-0 table #5: 10786 bytes OK
+2026/09/09-11:36:46.877 32f9 Delete type=0 #3
+2026/09/09-11:36:46.877 32f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

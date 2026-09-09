@@ -1,0 +1,422 @@
+[
+    {
+        "name": "7-Zip",
+        "version": "26.01",
+        "url": "https://www.7-zip.org/",
+        "license": "LGPL 2.1",
+        "licenseUrl": "https://www.7-zip.org/license.txt"
+    },
+    {
+        "name": "ch.qos.logback:logback-classic",
+        "version": "1.5.25",
+        "url": "",
+        "license": "EPL-1.0",
+        "licenseUrl": "http://www.eclipse.org/legal/epl-v10.html"
+    },
+    {
+        "name": "ch.qos.logback:logback-core",
+        "version": "1.5.25",
+        "url": "",
+        "license": "EPL-1.0",
+        "licenseUrl": "http://www.eclipse.org/legal/epl-v10.html"
+    },
+    {
+        "name": "com.github.stephenc.jcip:jcip-annotations",
+        "version": "1.0-1",
+        "url": "http://stephenc.github.com/jcip-annotations",
+        "license": "Apache-2.0",
+        "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.nimbusds:content-type",
+        "version": "2.3",
+        "url": "https://bitbucket.org/connect2id/nimbus-content-type",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.nimbusds:lang-tag",
+        "version": "1.7",
+        "url": "https://bitbucket.org/connect2id/nimbus-language-tags",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.nimbusds:nimbus-jose-jwt",
+        "version": "10.6",
+        "url": "https://bitbucket.org/connect2id/nimbus-jose-jwt",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.nimbusds:oauth2-oidc-sdk",
+        "version": "11.33",
+        "url": "https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    {
+        "name": "com.squareup.okhttp3:okhttp-jvm",
+        "version": "5.3.2",
+        "url": "https://square.github.io/okhttp/",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.squareup.okio:okio-jvm",
+        "version": "3.16.4",
+        "url": "https://github.com/square/okio/",
+        "license": "Apache-2.0",
+        "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "com.typesafe:config",
+        "version": "1.4.5",
+        "url": "https://github.com/lightbend/config",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "name": "commons-codec:commons-codec",
+        "version": "1.21.0",
+        "url": "https://commons.apache.org/proper/commons-codec/",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "commons-io:commons-io",
+        "version": "2.21.0",
+        "url": "https://commons.apache.org/proper/commons-io/",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "Compose Multiplatform",
+        "version": "1.10.0-SNAPSHOT+data-source-prototype-1-10-0-beta02",
+        "url": "https://github.com/JetBrains/compose-multiplatform",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/compose-multiplatform/blob/v1.10.0-beta02/LICENSE.txt"
+    },
+    {
+        "name": "IntelliJ Markdown",
+        "version": "0.7.3",
+        "url": "https://github.com/JetBrains/markdown",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/markdown/blob/master/LICENSE"
+    },
+    {
+        "name": "Inter",
+        "version": "3.19",
+        "url": "https://rsms.me/inter/",
+        "license": "SIL Open Font License",
+        "licenseUrl": "https://github.com/rsms/inter/blob/v3.19/LICENSE.txt"
+    },
+    {
+        "name": "io.ktor:ktor-client-cio-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-client-content-negotiation-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-client-core-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-client-logging-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-client-okhttp-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-events-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-http-cio-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-http-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-io-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-network-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-network-tls-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-serialization-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-serialization-kotlinx-json-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-serialization-kotlinx-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-server-cio-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-server-content-negotiation-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-server-core-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-server-status-pages-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-server-websockets-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-sse-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-utils-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-websocket-serialization-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "io.ktor:ktor-websockets-jvm",
+        "version": "3.4.1",
+        "url": "https://github.com/ktorio/ktor",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "JetBrains Java Annotations",
+        "version": "26.0.2",
+        "url": "https://github.com/JetBrains/java-annotations",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/java-annotations/blob/26.0.2/LICENSE.txt"
+    },
+    {
+        "name": "JetBrains Mono",
+        "version": "2.305",
+        "url": "https://github.com/JetBrains/JetBrainsMono",
+        "license": "SIL Open Font License",
+        "licenseUrl": "https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt"
+    },
+    {
+        "name": "JetBrains Runtime",
+        "version": "25.0.3b508.4",
+        "url": "https://github.com/JetBrains/JetBrainsRuntime",
+        "license": "GPL v2 with Classpath Exception",
+        "licenseUrl": "https://github.com/JetBrains/JetBrainsRuntime/blob/main/LICENSE"
+    },
+    {
+        "name": "jvm-native-trusted-roots",
+        "version": "1.1.7",
+        "url": "https://github.com/JetBrains/jvm-native-trusted-roots",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/jvm-native-trusted-roots/blob/v1.1.7/LICENSE"
+    },
+    {
+        "name": "Kotlin",
+        "version": "2.4.0",
+        "url": "https://kotlinlang.org/",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/kotlin/blob/v2.4.0/license/LICENSE.txt"
+    },
+    {
+        "name": "Kotlinx DateTime",
+        "version": "0.7.1",
+        "url": "https://github.com/Kotlin/kotlinx-datetime",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/Kotlin/kotlinx-datetime/blob/v0.7.1/LICENSE.txt"
+    },
+    {
+        "name": "kotlinx-io",
+        "version": "0.8.0",
+        "url": "https://github.com/Kotlin/kotlinx-io",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/Kotlin/kotlinx-io/blob/0.8.0/LICENSE"
+    },
+    {
+        "name": "kotlinx-rpc",
+        "version": "0.10.2",
+        "url": "https://github.com/Kotlin/kotlinx-rpc/",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/Kotlin/kotlinx-rpc/blob/release-0.10.2/LICENSE"
+    },
+    {
+        "name": "kotlinx.coroutines",
+        "version": "1.10.2",
+        "url": "https://github.com/Kotlin/kotlinx.coroutines/",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/Kotlin/kotlinx.coroutines/blob/1.10.2/LICENSE.txt"
+    },
+    {
+        "name": "kotlinx.serialization",
+        "version": "1.9.0",
+        "url": "https://github.com/Kotlin/kotlinx.serialization/",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/Kotlin/kotlinx.serialization/blob/v1.9.0/LICENSE.txt"
+    },
+    {
+        "name": "Marketplace ZIP Signer",
+        "version": "0.1.43",
+        "url": "https://github.com/JetBrains/marketplace-zip-signer",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/marketplace-zip-signer/blob/0.1.43/LICENSE"
+    },
+    {
+        "name": "net.java.dev.jna:jna-platform",
+        "version": "5.17.0",
+        "url": "https://github.com/java-native-access/jna",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "net.minidev:accessors-smart",
+        "version": "2.5.2",
+        "url": "https://urielch.github.io/",
+        "license": "Apache-2.0",
+        "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "net.minidev:json-smart",
+        "version": "2.5.2",
+        "url": "https://urielch.github.io/",
+        "license": "Apache-2.0",
+        "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "org.apache.commons:commons-compress",
+        "version": "1.28.0",
+        "url": "https://commons.apache.org/proper/commons-compress/",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "org.apache.commons:commons-lang3",
+        "version": "3.20.0",
+        "url": "https://commons.apache.org/proper/commons-lang/",
+        "license": "Apache-2.0",
+        "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    {
+        "name": "org.bouncycastle:bcpg-jdk18on",
+        "version": "1.71",
+        "url": "https://www.bouncycastle.org/java.html",
+        "license": "BouncyCastle",
+        "licenseUrl": "https://www.bouncycastle.org/licence.html"
+    },
+    {
+        "name": "org.bouncycastle:bcprov-jdk18on",
+        "version": "1.71",
+        "url": "https://www.bouncycastle.org/java.html",
+        "license": "BouncyCastle",
+        "licenseUrl": "https://www.bouncycastle.org/licence.html"
+    },
+    {
+        "name": "org.ow2.asm:asm",
+        "version": "9.7.1",
+        "url": "http://asm.ow2.io/",
+        "license": "BSD-3-Clause",
+        "licenseUrl": "https://asm.ow2.io/license.html"
+    },
+    {
+        "name": "org.slf4j:slf4j-api",
+        "version": "2.0.17",
+        "url": "http://www.slf4j.org",
+        "license": "MIT",
+        "licenseUrl": "https://opensource.org/license/mit"
+    },
+    {
+        "name": "Skiko",
+        "version": "0.9.37.3",
+        "url": "https://github.com/JetBrains/skiko",
+        "license": "Apache License, Version 2.0",
+        "licenseUrl": "https://github.com/JetBrains/skiko/blob/v0.9.37/LICENSE"
+    }
+]

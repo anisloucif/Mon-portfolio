@@ -1,0 +1,25 @@
+2026-09-09 06:56:00.811Z INFO  launch - JetBrains Daemon Launcher v0.8.6627
+PID:         6928
+Socket:      /run/user/1001/jetbrainsd-1345f043e82be6f5386896b03c537ae2
+Executable:  /home/anis/.local/share/JetBrains/Daemon/bundles/current/jetbrainsd/bin/jetbrainsd
+Bundles dir: /home/anis/.local/share/JetBrains/Daemon/bundles
+Logs dir:    /home/anis/.local/share/JetBrains/Daemon/logs
+Data dir:    /home/anis/.local/share/JetBrains/Daemon/data
+Cache dir:   /home/anis/.cache/JetBrains/Daemon
+Working dir: /home/anis/.local/share/JetBrains/Daemon/data
+2026-09-09 06:56:00.811Z INFO  launch - This bundle is not installed
+2026-09-09 06:56:00.812Z INFO  lock - 'jetbrainsd-installation-84fe5cc65e8bb989726f0419fe7430a2-47b5075b442602bcb6c5c953ef2fced2' UDS was bound
+2026-09-09 06:56:00.812Z INFO  install - Acquired installation lock
+2026-09-09 06:56:00.813Z INFO  launch - Cannot determine the currently installed version: Cannot run program "/home/anis/.local/share/JetBrains/Daemon/bundles/current/jetbrainsd/bin/jetbrainsd": Exec failed, error: 2 (Aucun fichier ou dossier de ce nom) 
+2026-09-09 06:56:00.813Z INFO  install - Installing: regular installation
+2026-09-09 06:56:00.819Z INFO  lock - 'jetbrainsd-84fe5cc65e8bb989726f0419fe7430a2-1345f043e82be6f5386896b03c537ae2' UDS was bound
+2026-09-09 06:56:00.819Z INFO  install - Acquired instance lock (attempt 0/10)
+2026-09-09 06:56:00.819Z INFO  install - Deleted directory: /home/anis/.local/share/JetBrains/Daemon/bundles/tmp
+2026-09-09 06:56:00.819Z INFO  install - Installing /home/anis/.local/share/JetBrains/Daemon/bundles/extract/jetbrainsd-71412f0c-5dcb-4adc-875b-1bb5b639a66d/jetbrainsd to /home/anis/.local/share/JetBrains/Daemon/bundles/current...
+2026-09-09 06:56:00.861Z INFO  install - Copied /home/anis/.local/share/JetBrains/Daemon/bundles/extract/jetbrainsd-71412f0c-5dcb-4adc-875b-1bb5b639a66d/jetbrainsd -> /home/anis/.local/share/JetBrains/Daemon/bundles/tmp/abc5c186-6b25-4bca-8903-5d218709bf2e
+2026-09-09 06:56:00.861Z INFO  install - Successfully installed /home/anis/.local/share/JetBrains/Daemon/bundles/extract/jetbrainsd-71412f0c-5dcb-4adc-875b-1bb5b639a66d/jetbrainsd to /home/anis/.local/share/JetBrains/Daemon/bundles/current
+2026-09-09 06:56:00.861Z INFO  install - Deleted directory: /home/anis/.local/share/JetBrains/Daemon/bundles/tmp
+2026-09-09 06:56:00.862Z INFO  lock - 'jetbrainsd-84fe5cc65e8bb989726f0419fe7430a2-1345f043e82be6f5386896b03c537ae2' Socket closed
+2026-09-09 06:56:00.862Z INFO  lock - 'jetbrainsd-installation-84fe5cc65e8bb989726f0419fe7430a2-47b5075b442602bcb6c5c953ef2fced2' Socket closed
+2026-09-09 06:56:00.868Z INFO  launch - Daemon launched (6943)
+2026-09-09 06:56:01.075Z INFO  launch - Daemon is now running and responsive (3), started version 0.8.6627

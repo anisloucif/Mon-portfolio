@@ -1,0 +1,102 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "105692e37f2d1cbe597efeecef2ad8aabc6792ddade473b0d71d81077a162e44",
+    "telemetry.devDeviceId": "5013fe88-bc1c-4bf2-a8fe-f9826d279a40",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/anis/Mon-portfolio"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/anis/Mon-portfolio": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "panelBackground": "#191a1b",
+            "editorGroupBorder": "rgba(255, 255, 255, 0.09)",
+            "agentsPanelBackground": "#191a1b",
+            "agentsPanelBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 44,
+            "sideBarWidth": 196,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 28,
+            "windowBorder": false,
+            "modernUI": true,
+            "partBounds": {
+                "sideBar": {
+                    "top": 35,
+                    "left": 48,
+                    "width": 192,
+                    "height": 801
+                },
+                "panel": {
+                    "top": 555,
+                    "left": 244,
+                    "width": 1122,
+                    "height": 281
+                },
+                "editor": {
+                    "top": 35,
+                    "left": 244,
+                    "width": 1122,
+                    "height": 516
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/anis/Mon-portfolio",
+            "backupPath": "/home/anis/.config/Code/Backups/b8f87d4e377c5abad755687bed04a7b4",
+            "uiState": {
+                "mode": 0,
+                "x": 10,
+                "y": 10,
+                "width": 687,
+                "height": 868
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 196,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "6d259339784d0b0e5f830754d41e2e7b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
